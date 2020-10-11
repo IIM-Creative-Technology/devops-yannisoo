@@ -15,7 +15,7 @@ FRONT
   Deploiement du front sur heroku  https://statsdefoot.herokuapp.com/
 2. Pre-prod
   Deploiement du front sur heroku https://statsdefootfront.herokuapp.com/
-3 OnPullRequest
+3. OnPullRequest
   Mise en cache des dépendances. Installation des dépendances. Build de l'application. utilisation du linter et de karma pour vérifié la validité du code.
 
 BACK
@@ -23,5 +23,5 @@ BACK
   Deploiement du back sur heroku https://statsdefootapi.herokuapp.com/
 2. Pre-prod
   Deploiement du back sur heroku https://statsdefootback.herokuapp.com/
-3 OnPullRequest
+3. OnPullRequest
   Mise en cache des dépendances. Installation des dépendances. Build de l'application. utilisation du linter et de karma pour vérifié la validité du code.
