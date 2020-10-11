@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api: 'https://iim-a4-qf-stats2foot.herokuapp.com'
+  api: 'https://statsdefootapi.herokuapp.com'
 };
 
 /*
